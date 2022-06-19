@@ -8,6 +8,6 @@ require (
 	github.com/chromedp/chromedp v0.5.4
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gookit/color v1.3.6
-	github.com/tidwall/gjson v1.6.7
+	github.com/tidwall/gjson v1.9.3
 	golang.org/x/sys v0.0.0-20201223074533-0d417f636930 // indirect
 )
