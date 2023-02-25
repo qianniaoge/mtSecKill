@@ -9,5 +9,5 @@ require (
 	github.com/gobwas/httphead v0.1.0 // indirect
 	github.com/gookit/color v1.3.6
 	github.com/tidwall/gjson v1.6.7
-	golang.org/x/sys v0.0.0-20201223074533-0d417f636930 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
